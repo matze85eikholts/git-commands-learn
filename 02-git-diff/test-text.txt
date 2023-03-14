@@ -1,0 +1,2 @@
+Here I'm trying to learn the diff-command.
+So different text elements will be added here.
