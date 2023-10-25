@@ -1,0 +1,10 @@
+/*---01-After a long break, if you have forgotten the story 
+of the commits and remote folder----*/
+-----------------------------------------------------
+git status
+git remote -v
+make some changes in the files
+git add .
+git commit -m "Some commit description"
+git push origin master
+----------------------------------------------------
